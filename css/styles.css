@@ -1,0 +1,39 @@
+:root {
+    --primary-text-color: #000000;
+    --secondary-text-color: #231F20;
+    --accent-text-color: #F7941E;
+    --primary-bg-color: #FFFFFF;
+    --secondary-bg-color: #FAFAFA;
+    --hero-bg-color: #F1F1F2;
+
+}
+
+body {
+    font-family: 'Montserrat', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: var(--primary-text-color) ;
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+/* ---------------------------HEADER---------------------------- */
+
+.header-logo {
+font-family: 'Homemade Apple';
+font-size: 18px;
+line-height: 39px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #231F20;
+}
+
+.navigation-item {
+
+}
+
